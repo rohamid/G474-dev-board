@@ -4334,6 +4334,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C23186"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f6ad3f0-68c3-44ee-bc1d-5b3f375ce9eb")
 		)
@@ -4535,6 +4544,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 55.88 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c65e437-7e86-4ea0-953e-0edd8ee6b85a")
 		)
@@ -4555,7 +4573,7 @@
 		(at 151.13 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4595,6 +4613,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 151.13 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 151.13 38.1 0)
 			(effects
 				(font
@@ -4749,6 +4776,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C14858"
+			(at 38.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ff7bbbd-9f0a-4872-ac16-dd9896bed0b9")
 		)
@@ -4769,7 +4805,7 @@
 		(at 209.55 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4811,6 +4847,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 209.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 209.55 113.03 0)
 			(effects
 				(font
@@ -4889,6 +4934,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C45783"
+			(at 165.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0986aee6-eb27-41dc-8c20-031b85fcd2d6")
 		)
@@ -4951,6 +5005,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 31.75 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22828"
 			(at 31.75 137.16 0)
 			(effects
 				(font
@@ -5029,6 +5092,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C14663"
+			(at 82.55 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5068ab5-647f-4698-b156-8b1293d0b5c8")
 		)
@@ -5089,6 +5161,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 36.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2988369"
 			(at 36.83 46.99 0)
 			(effects
 				(font
@@ -5163,7 +5244,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5203,6 +5284,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 105.41 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 105.41 85.09 0)
 			(effects
 				(font
@@ -5412,6 +5502,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C57112"
+			(at 180.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad2df841-bded-48c9-be45-2fd3f505be5a")
 		)
@@ -5482,6 +5581,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C440198"
+			(at 139.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "efec6cdc-877c-4422-8b3a-00111d2e89b7")
 		)
@@ -5543,6 +5651,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 190.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 190.5 125.73 0)
 			(effects
 				(font
@@ -5687,6 +5804,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C14663"
+			(at 153.67 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ad49a13-6808-437a-8f6d-77be275f6921")
 		)
@@ -5747,6 +5873,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 60.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 60.96 39.37 0)
 			(effects
 				(font
@@ -5817,6 +5952,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 55.88 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C227439"
 			(at 55.88 156.21 0)
 			(effects
 				(font
@@ -6123,7 +6267,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 175.26 52.3874 90)
 			(effects
 				(font
@@ -6151,6 +6295,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2297"
 			(at 171.45 49.53 0)
 			(effects
 				(font
@@ -6298,6 +6451,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C82460"
+			(at 53.34 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01a0c5c8-6deb-470e-ab60-f1b42383a3d1")
 		)
@@ -6361,6 +6523,15 @@
 			)
 		)
 		(property "Description" "500mA Low drop-out regulator, Fixed Output 3.3V, SOT-23-5"
+			(at 170.18 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5370980"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -6446,6 +6617,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C6187"
+			(at 153.67 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "707c3ea8-7e4a-4adf-a061-c93487969bcc")
 		)
@@ -6515,6 +6695,15 @@
 		)
 		(property "Description" "Shunt Regulator, SOT-23"
 			(at 24.638 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23892"
+			(at 31.75 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,6 +6784,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C377773"
+			(at 201.93 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8df9a2fd-d8b6-4586-91a7-680ff798b25f")
 		)
@@ -6657,6 +6855,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 55.88 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C227486"
 			(at 55.88 166.37 0)
 			(effects
 				(font
@@ -6933,6 +7140,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C23192"
+			(at 171.45 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7873c3ea-654f-4dc5-a65b-cd8f091b920d")
 		)
@@ -7126,6 +7342,15 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 72.39 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 72.39 156.21 0)
 			(effects
 				(font
@@ -7336,6 +7561,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C440198"
+			(at 93.98 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "19cee07b-613a-49a8-bdd4-27a0a6a570ae")
 		)
@@ -7464,6 +7698,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 142.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28323"
 			(at 142.24 125.73 0)
 			(effects
 				(font
